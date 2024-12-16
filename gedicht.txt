@@ -1,0 +1,6 @@
+Rot
+Grün
+blau
+Gelb
+Magenta
+Sind alles tolle Farben.
