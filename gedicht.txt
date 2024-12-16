@@ -3,5 +3,6 @@ Hellgrün
 Dunkelgrün
 blau
 Gelb
+black
 Magenta
 Sind alles tolle Farben.
