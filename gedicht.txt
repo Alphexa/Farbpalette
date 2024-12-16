@@ -1,5 +1,6 @@
 Rot
-Grün
+Hellgrün
+Dunkelgrün
 blau
 Gelb
 Magenta
